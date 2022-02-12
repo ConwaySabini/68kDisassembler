@@ -5,8 +5,10 @@ Opcode methods begin with immediate values that will print data for immediate op
 
 Movem is completely custom addressing with a bit mask that will print the corresponding registers that are marked. The bit mask can be reversed depending on the mode of the opcode.
 
+Program Flow:
 ![image](https://user-images.githubusercontent.com/53063791/153731505-14c909b8-2e99-4579-8247-c11009f22ee7.png)
 
+IO Flow:
 ![image](https://user-images.githubusercontent.com/53063791/153731511-56574c44-10f3-45cc-923e-02c37bfbb835.png)
 
 
